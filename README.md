@@ -1,2 +1,2 @@
 # Youtube-Clone
-I learn html &amp; css by build this project which provide by Supersimple Dev youtube tutorial.
+I learn html & css by building this project provided by Supersimple Dev youtube tutorial.
